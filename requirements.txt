@@ -1,2 +1,1 @@
-Flask
-instagrapi
+pip install instagrapi flask
